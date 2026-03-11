@@ -1,0 +1,9 @@
+# NI Package Manager Feed List
+# Add one feed path per line
+# Lines starting with # are comments and will be ignored
+# Use X: drive path since the script maps \\argo\ni\nipkg to X:
+
+# Example feeds:
+
+# Add more feeds below (one per line):
+X:\feeds\ni-e\ni-ethercat\25.8.0\25.8.0.49244-0+f92
