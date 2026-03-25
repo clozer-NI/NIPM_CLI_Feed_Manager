@@ -7,3 +7,17 @@
 
 # Add more feeds below (one per line):
 X:\feeds\ni-e\ni-ethercat\25.8.0\25.8.0.49244-0+f92
+X:\feeds\ni-l\ni-labview-2025\25.3.2\25.3.2.49165-0+f13
+X:\feeds\ni-l\ni-labview-2025-fpga-module\25.1.4\25.1.4.49322-0+f170
+X:\feeds\ni-t\ni-teststand-2025-x86\25.5.0\25.5.0.49292-0+f140
+X:\feeds\ni-l\ni-labview-2019-x86\19.0.2\19.0.2.49153-0+f1
+X:\feeds\ni-p\ni-power-signals-daq\25.8.0\25.8.0.49172-0+f20
+X:\feeds\ni-r\ni-r-series\26.0.0\26.0.0.49273-0+f121
+X:\feeds\ni-p\ni-pxiplatformservices\25.3.0\25.3.0.49372-0+f220
+X:\feeds\ni-r\ni-rf-if-digitizer\25.8.0\25.8.0.49205-0+f53
+X:\feeds\ni-s\ni-scope\26.0.0\26.0.0.49337-0+f185
+X:\feeds\ni-s\ni-serial\25.8.0\25.8.0.49264-0+f112
+X:\feeds\ni-s\ni-switch\26.0.0\26.0.0.49333-0+f181
+X:\feeds\ni-s\ni-system-configuration\25.8.0\25.8.0.49410-0+f258
+X:\feeds\ni-d\ni-dcpower\26.0.0\26.0.0.49457-0+f305
+X:\feeds\ni-s\ni-systemlink-labview-support\26.0.0\26.0.0.49258-0+f106

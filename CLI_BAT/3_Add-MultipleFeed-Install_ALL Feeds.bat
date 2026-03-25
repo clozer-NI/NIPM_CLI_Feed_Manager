@@ -58,7 +58,7 @@ SET StartDir=\\argo\ni\nipkg
 REM Loop until we know StartDir exists and net use does not return an error 
 :loop 
 
-net use * /delete /yes
+net use x: /delete /yes >nul 2>&1
 net use x: %StartDir% /user:amer\nitest nitest /persistent:no 
 
 if not %errorlevel%==0 (
