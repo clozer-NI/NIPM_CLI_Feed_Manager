@@ -144,6 +144,8 @@ ni-error-report-x86
 ni-euladepot
 ni-example-finder
 ni-expat1-libs
+ni-fpga-errorcodes
+ni-fpga-errorcodes-x86
 ni-help-assistant
 ni-help-launcher
 ni-hwcfg-utility
@@ -220,6 +222,7 @@ ni-labview-dett-labview-2023-support
 ni-labview-dett-labview-2023-support-x86
 ni-labview-dett-lic
 ni-labview-dfd-toolkit-lic
+ni-labview-fpga-advanced-session-resources
 ni-labview-max-xml
 ni-labview-nxg-5.0.0-com-plugin
 ni-labview-offline-manual-en
@@ -332,7 +335,9 @@ ni-opcenum
 ni-opc-support
 ni-openssl3-libs
 ni-openssl3-libs-x86
+ni-openvino-inference-engine
 ni-orb
+ni-p2p
 ni-package-builder
 ni-package-builder-core
 ni-package-builder-core-x86
@@ -376,6 +381,8 @@ ni-registration-wizard
 ni-remote-configuration
 ni-resetniconfig
 ni-rgt-labview-support
+ni-rio-fpga-driver
+ni-rio-fpga-ids
 ni-roco
 ni-roco-errors
 ni-rpc
@@ -461,6 +468,7 @@ ni-system-webserver-base
 ni-targetdiscoverywizard
 ni-tdm-excel-addin
 ni-tdms
+ni-tensorflow
 ni-testscalesfp-instrumentstudio-support
 ni-teststand-14.0.0-runtime-fx20-support
 ni-teststand-14.0.1-runtime-fx20-support
@@ -559,6 +567,9 @@ ni-visa-runtime
 ni-visa-server
 ni-visa-shared-components
 ni-visa-sysapi
+ni-vision-common-labview-support
+ni-vision-common-resources
+ni-vision-errors
 ni-web-based-configuration
 ni-web-pipeline-23.5
 ni-web-pipeline-26.0

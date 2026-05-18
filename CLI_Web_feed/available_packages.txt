@@ -1341,6 +1341,17 @@ ni-labview-2019-runtime-engine	19.1.2.49153-0+f1	windows_x64	The LabVIEW Runtime
 ni-labview-2019-runtime-engine	19.1.5.49152-0+f0	windows_x64	The LabVIEW Runtime is a software add-on that enables engineers to run executables on a nondevelopment machine. The LabVIEW Runtime enables you to run executables created with the LabVIEW Application Builder on machines that do not have LabVIEW installed. The LabVIEW Runtime includes the libraries and other files necessary to run basic application types built in LabVIEW.
 ni-lv-web-server-labview-2019-runtime-engine-support	19.0.0.49152-0+f0	windows_x64	NI RTE LabVIEW Web Server 64-Bit.
 ni-ssl-labview-2019-runtime-engine-support	19.0.0.49152-0+f0	windows_x64	Installs LabVIEW 2019 64-bit runtime support files for SSL technologies.
+ni-fpga-errorcodes-x86	25.1.0.49395-0+f243	windows_x64	This is an infrastructure package for NI Software.
+ni-fpga-errorcodes	25.1.0.49395-0+f243	windows_x64	This is an infrastructure package for NI Software.
+ni-labview-fpga-advanced-session-resources	25.8.0.49304-0+f152	windows_x64	Provides API, documentation, and examples for using FPGA Advanced Session Resources within LabVIEW.
+ni-openvino-inference-engine	25.8.0.49259-0+f107	windows_x64	This is an infrastructure package for NI Software.
+ni-p2p	25.8.0.49299-0+f147	windows_x64	NI Peer-To-Peer driver support library (infrastructure) Provides peer-to-peer device transfer services for NI software.
+ni-rio-fpga-driver	25.8.0.49309-0+f157	windows_x64	This feature includes the NI-RIO driver for Windows. This software is required to use RIO devices such as NI R Series and CompactRIO devices.
+ni-rio-fpga-ids	25.8.0.49307-0+f155	windows_x64	This feature includes the NI-RIO FPGA Interface Driver support files.
+ni-tensorflow	25.8.0.49259-0+f107	windows_x64	This is an infrastructure package for NI Software.
+ni-vision-common-labview-support	25.8.0.49262-0+f110	windows_x64	Provides API, documentation, and examples for using NI Vision Common within LabVIEW.
+ni-vision-common-resources	25.8.0.49261-0+f109	windows_x64	The Vision Common Resources helps you develop and deploy applications using basic machine vision functions. The Vision Common Resources is driver software that provides support for NI Vision image management functions, Image Display controls, and image-shared variables across both Windows hardware or NI Linux Real-Time hardware. Comprehensive machine vision support is available through the Vision Development Module. The registered trademark Linux(R) is used pursuant to a sublicense from LMI, the exclusive licensee of Linus Torvalds, owner of the mark on a worldwide basis.
+ni-vision-errors	25.8.0.49260-0+f108	windows_x64	This is an infrastructure package for NI Software.
 jki-dragon	2024.1.1-645	windows_x64	Manage package dependencies directly from your LabVIEW project. Works with VIPM and NI Package Manager to provide a complete dependency management solution for LabVIEW Add-ons, NI Software and Drivers, and more.
 jki-dragon	2024.1.1-649	windows_x64	Manage package dependencies directly from your LabVIEW project. Works with VIPM and NI Package Manager to provide a complete dependency management solution for LabVIEW Add-ons, NI Software and Drivers, and more.
 jki-dragon	2024.3.0-661	windows_x64	Manage package dependencies directly from your LabVIEW project. Works with VIPM and NI Package Manager to provide a complete dependency management solution for LabVIEW Add-ons, NI Software and Drivers, and more.

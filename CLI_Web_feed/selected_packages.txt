@@ -1,1 +1,2 @@
 # Put package names here, one per line, then run 2_Install-Selected-Packages-from-file.bat
+ni-cvi-rte=20.0.3.49154-0+f2
